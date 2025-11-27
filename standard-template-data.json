@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2025-11-26T05:38:42.984Z",
+    "version": "1.1.0",
+    "generatedAt": "2025-11-27T06:06:59.023Z",
     "templateType": "full_banner_image",
     "propertyId": "d3838038-b5bc-442f-93b0-51954e2d42fb",
     "homepageId": "6c656cbc-771e-42c2-80e6-b45df2519ae7"
@@ -2496,7 +2496,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "Pension Kan",
                 "images": [
                   {
                     "id": "99982988-3f88-4db7-9ce1-05324be9a086",
@@ -2508,7 +2508,7 @@
                 ]
               },
               "about": {
-                "title": "",
+                "title": "Pension Kan and Sunset",
                 "images": [
                   {
                     "id": "b63e9816-2077-4894-920e-8b36a01a00ca",
@@ -2518,13 +2518,12 @@
                     "isSelected": true
                   }
                 ],
-                "description": ""
+                "description": "노을과 함께 휴식을"
               }
             }
           ]
         }
       }
-    },
-    "id": "6c656cbc-771e-42c2-80e6-b45df2519ae7"
+    }
   }
 }

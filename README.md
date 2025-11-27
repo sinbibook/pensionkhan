@@ -1,2 +1,2 @@
-# pensionkhan
+# template-full-banner-image
 

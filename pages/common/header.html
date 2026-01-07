@@ -81,14 +81,25 @@
                     </button>
                 </div>
 
-                <!-- Mobile Menu Toggle -->
-                <div class="mobile-toggle" onclick="toggleMobileMenu()">
-                    <svg class="icon" id="menu-icon" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"/>
-                    </svg>
-                    <svg class="icon" id="close-icon" viewBox="0 0 24 24" style="display: none;">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/>
-                    </svg>
+                <!-- Mobile Controls Group -->
+                <div class="mobile-controls">
+                    <!-- Fixed Mobile Booking Button -->
+                    <button class="fixed-mobile-booking-btn" data-booking-engine>
+                        <svg class="icon" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25A8.966 8.966 0 0118 3.75c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0118 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25"/>
+                        </svg>
+                        <span class="btn-text">실시간 예약</span>
+                    </button>
+
+                    <!-- Mobile Menu Toggle -->
+                    <div class="mobile-toggle" onclick="toggleMobileMenu()">
+                        <svg class="icon" id="menu-icon" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"/>
+                        </svg>
+                        <svg class="icon" id="close-icon" viewBox="0 0 24 24" style="display: none;">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/>
+                        </svg>
+                    </div>
                 </div>
             </div>
         </div>
@@ -164,12 +175,6 @@
             </div>
         </div>
 
-    <!-- Fixed Mobile Booking Button (Always Visible) -->
-    <button class="fixed-mobile-booking-btn" data-booking-engine>
-        <svg class="icon" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25A8.966 8.966 0 0118 3.75c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0118 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25"/>
-        </svg>
-    </button>
 
     <!-- Preview Handler for Admin Integration -->
     <script src="../js/preview-handler.js"></script>

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-02-03T01:19:13.570Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-03-27T07:20:24.229Z",
     "templateType": "full_banner_image",
     "propertyId": "d3838038-b5bc-442f-93b0-51954e2d42fb",
     "homepageId": "6c656cbc-771e-42c2-80e6-b45df2519ae7"
@@ -388,6 +388,7 @@
       "name": "A201(제트스파)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 92,
       "baseOccupancy": 2,
@@ -563,6 +564,7 @@
       "name": "A202(노천 스파)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+풀빌라+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 49,
       "baseOccupancy": 2,
@@ -710,6 +712,7 @@
       "name": "A203(제트스파)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 92,
       "baseOccupancy": 2,
@@ -892,6 +895,7 @@
       "name": "A301(제트스파,복층)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+풀빌라+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 92,
       "baseOccupancy": 2,
@@ -1074,6 +1078,7 @@
       "name": "A302(제트스파,복층)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+풀빌라+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 92,
       "baseOccupancy": 2,
@@ -1249,6 +1254,7 @@
       "name": "B301(제트스파,복층)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+풀빌라+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 92,
       "baseOccupancy": 2,
@@ -1410,6 +1416,7 @@
       "name": "B302(제트스파,복층)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+풀빌라+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 91,
       "baseOccupancy": 2,
@@ -1571,6 +1578,7 @@
       "name": "B201(제트스파)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 102,
       "baseOccupancy": 4,
@@ -1754,6 +1762,7 @@
       "name": "B202(노천 스파)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+풀빌라+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 49,
       "baseOccupancy": 2,
@@ -1901,6 +1910,7 @@
       "name": "B203(제트스파)",
       "description": "복층형 : \n- 1층 : 거실1+주방1+화장실1+제트스파+테라스\n- 2층: 침대룸1",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 1인 당 20,000원 (1박기준/현장결제)\n- 최대인원 초과입실은 불가합니다.",
+      "usageGuide": "",
       "group": null,
       "size": 102,
       "baseOccupancy": 4,
@@ -2085,6 +2095,122 @@
         }
       ],
       "displayOrder": 9
+    },
+    {
+      "id": "88e5d650-11bb-4850-a784-b3650b9da2fd",
+      "name": "A201 (풀빌라, 제트스파)",
+      "description": "",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 9.92,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0
+      },
+      "bedTypes": [],
+      "amenities": [],
+      "roomViews": [],
+      "roomStructures": [],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 10
+    },
+    {
+      "id": "3ed09363-dcb3-40a0-9c79-e92b0c7883d5",
+      "name": "A203 (풀빌라, 제트스파)",
+      "description": "",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 13.22,
+      "baseOccupancy": 1,
+      "maxOccupancy": 1,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0
+      },
+      "bedTypes": [],
+      "amenities": [],
+      "roomViews": [],
+      "roomStructures": [],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 11
+    },
+    {
+      "id": "0b3eba18-1235-4850-bf1a-d87dc49ff054",
+      "name": "B201 (4인 풀빌라, 제트스파)",
+      "description": "",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 9.92,
+      "baseOccupancy": 1,
+      "maxOccupancy": 1,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0
+      },
+      "bedTypes": [],
+      "amenities": [],
+      "roomViews": [],
+      "roomStructures": [],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 12
+    },
+    {
+      "id": "c5dab69a-8024-4d8b-a87e-f4e7eac59d21",
+      "name": "B203 (4인 풀빌라, 제트스파)",
+      "description": "",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 9.92,
+      "baseOccupancy": 1,
+      "maxOccupancy": 1,
+      "totalRoomCount": {
+        "bedroom": 0,
+        "bathroom": 0,
+        "livingRoom": 0
+      },
+      "bedTypes": [],
+      "amenities": [],
+      "roomViews": [],
+      "roomStructures": [],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 13
     }
   ],
   "homepage": {
@@ -4830,7 +4956,6 @@
           ]
         }
       ]
-    },
-    "id": "6c656cbc-771e-42c2-80e6-b45df2519ae7"
+    }
   }
 }
